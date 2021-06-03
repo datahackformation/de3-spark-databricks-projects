@@ -1,1 +1,1 @@
-# spark-databricks-projects
+# Spark-Databricks Projects
